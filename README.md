@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SFDX  App
 
 ## Dev, Build and Test
@@ -12,3 +13,7 @@
 ## Issues
 
 
+=======
+# Demo
+Repository untuk belajar sfdx
+>>>>>>> 670ed770eea6850a4944423fb6a35fa933fcaae1
